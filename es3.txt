@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modifica per creare conflitto
+=======
+modifica file 3 prima volta
+>>>>>>> ramo2
